@@ -6,4 +6,9 @@ Basic deep neural network in Tensorflow to classify the MNIST images.  This netw
 - using Elu activation function
 - xavier weight initialization
 
-Before adding dropout, the network scored ~ %97 on the test data, after adding dropout it scored ~ %91
+Before adding dropout, the network scored ~ %97 on the test data, after adding dropout it scored ~ %91.
+
+### Dependencies
+- python 3.5
+- Tensorflow 
+- numpy
